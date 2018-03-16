@@ -9,4 +9,5 @@ This is not a fully working applicattion, therefore some of the functions do not
 These include:
 
 No login details are required to access the app.
+
 Entries made in the app are examples and cannot be eddited by user.
